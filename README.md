@@ -5,6 +5,6 @@ CalCoMatica (`calcomatica.m`) is an interface package for [Wolfram Mathematica](
 
 To use this package, download a [release](https://github.com/lukaszjablonski/CalCoMatica/releases), unpack it, and follow [`USAGE.md`](USAGE.md).
 
-Written by Lukasz Jablonski. Licensed under the MIT License (MIT).
+Written by Lukasz Jablonski (see [`ACKNOWLEDGEMENTS.md`](ACKNOWLEDGEMENTS.md)). Licensed under the MIT License (MIT) (see [`LICENSE.md`](LICENSE.md)).
 
 https://github.com/lukaszjablonski/CalCoMatica
